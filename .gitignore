@@ -3,3 +3,4 @@
 *.pyc
 /more/task0/data/
 more/task42/data/
+*.hdf5
